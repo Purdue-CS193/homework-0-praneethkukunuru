@@ -4,8 +4,7 @@
 - The Instructors: Having students teach us gives me a much better environment, with little stress. I can also connect wiht the instructors better.
 - Exams: This class is supposed to be how every class works. Without any midterms and finals, I can focus solely on learning, which is just awesome.
 - The Content: Working on Git hub is something that I have always wanted to try, but couldn't get to. In just a single day, I learnt more about Githib than I did when I tried to learn on my own in a whole week.
-
-
+- The ease of the class: It also helps that the CS193 class is one of those classes where you learn a lot, and also are able to get an A as long as you put in enough work. 
 
 # This is the prewritten Code that is not a part of the Homework
 
