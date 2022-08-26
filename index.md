@@ -1,9 +1,13 @@
 # Praneeth Kukunuru's First CS193 Homework
 
+### My favorite things about this CS193 Class
+- The Instructors: Having students teach us gives me a much better environment, with little stress. I can also connect wiht the instructors better.
+- Exams: This class is supposed to be how every class works. Without any midterms and finals, I can focus solely on learning, which is just awesome.
+- The Content: Working on Git hub is something that I have always wanted to try, but couldn't get to. In just a single day, I learnt more about Githib than I did when I tried to learn on my own in a whole week.
 
 
 
-#This is the prewritten Code that is not a part of the Homework
+# This is the prewritten Code that is not a part of the Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
